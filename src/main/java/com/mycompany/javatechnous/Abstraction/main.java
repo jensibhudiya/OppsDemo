@@ -20,6 +20,7 @@ public class main {
         System.out.println("Area of the rectangle: " + rectangle.calculateArea());
         System.out.println("hello change");
          System.out.println("hello change");
+         System.out.println("hello change");
     }
     
 }
