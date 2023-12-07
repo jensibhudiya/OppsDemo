@@ -18,6 +18,7 @@ public class main {
         // Using the abstraction to calculate areas
         System.out.println("Area of the circle: " + circle.calculateArea());
         System.out.println("Area of the rectangle: " + rectangle.calculateArea());
+        System.out.println("hello change");
     }
     
 }
