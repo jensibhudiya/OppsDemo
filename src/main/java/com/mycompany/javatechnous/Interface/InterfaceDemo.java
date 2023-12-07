@@ -7,5 +7,6 @@ public class InterfaceDemo {
       Rectangle r=new Rectangle();
       c.draw();
       r.draw();
+    System.out.println("hello jnc");
   }   
 }
